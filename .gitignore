@@ -12,3 +12,7 @@ __pycache__/
 
 # pyenv
 .python-version
+
+# ignore logs
+*.log
+*.log.zip
