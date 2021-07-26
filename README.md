@@ -1,4 +1,4 @@
-# Logging Made Easy With Loguru Article Snippets
+# Logging Made Easy With Loguru (Article Snippets)
 
 ## Description
 
